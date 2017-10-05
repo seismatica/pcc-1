@@ -13,5 +13,4 @@ class NamesTestCase(unittest.TestCase):
             'wolfgang', 'mozart', 'amadeus')
         self.assertEqual(formatted_name, 'Wolfgang Amadeus Mozart')
             
-
 unittest.main()
